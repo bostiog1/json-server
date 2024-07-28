@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to he new blog",
+      "body": "lorem ninja ipsnm lorem ninja lorem ninja lorem ninja lorem ninja lorem ninja lorem ninja ",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "How to be a ninja",
+      "body": "lorem ninja ipsnm lorem ninja lorem ninja lorem ninja lorem ninja lorem ninja lorem ninja ",
+      "likes": 30
+    },
+    {
+      "id": 3,
+      "title": "New learning project",
+      "body": "lorem ninja ipsnm lorem ninja lorem ninja lorem ninja lorem ninja lorem ninja lorem ninja ",
+      "likes": 30
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
